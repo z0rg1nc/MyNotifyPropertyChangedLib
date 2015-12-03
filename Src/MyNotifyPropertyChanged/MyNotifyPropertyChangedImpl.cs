@@ -10,9 +10,9 @@ using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 using BtmI2p.MiscUtils;
 using BtmI2p.Newtonsoft.Json;
+using BtmI2p.ObjectStateLib;
 using LinFu.DynamicProxy;
 using NLog;
-using ObjectStateLib;
 using Xunit;
 
 namespace BtmI2p.MyNotifyPropertyChanged

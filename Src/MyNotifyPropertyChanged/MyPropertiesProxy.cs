@@ -4,8 +4,8 @@ using System.Reflection;
 using System.Threading.Tasks;
 using BtmI2p.JsonRpcHelpers.Client;
 using BtmI2p.MiscUtils;
+using BtmI2p.ObjectStateLib;
 using LinFu.DynamicProxy;
-using ObjectStateLib;
 
 namespace BtmI2p.MyNotifyPropertyChanged
 {

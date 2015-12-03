@@ -13,8 +13,8 @@ using System.Windows.Forms;
 using BtmI2p.MiscClientForms;
 using BtmI2p.MiscUtils;
 using BtmI2p.MyNotifyPropertyChanged.MyObservableCollections;
+using BtmI2p.ObjectStateLib;
 using NLog;
-using ObjectStateLib;
 using Xunit;
 
 namespace BtmI2p.MyNotifyPropertyChanged.Winforms
